@@ -10,7 +10,7 @@ Feel free to give any feedbacks and reach out to me via [email](dwika.widyantama
 
 ## Before you dive in
 This project comprises of several part in different format:
-1. [Jupyter Notebook](https://github.com/d-widyantama/Capstone2-Purwadhika/blob/main/V1-EDA-NYCTaxi.ipynb) for more detailed Exploratory Data Analysis 
+1. [Jupyter Notebook](https://github.com/d-widyantama/CAPSTONE-2_NYC-Taxi-EDA-and-Viz/blob/4b74bd6a701fecb054d3c04ae0eb0555f1287ba9/Main-EDA_NYCTaxi.ipynb) for more detailed Exploratory Data Analysis 
 2. [Tableau Story]() for Data Visualization and Analysis
 3. [Tableau Dashboard]()
 4. [Slides Format]()
